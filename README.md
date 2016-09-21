@@ -13,6 +13,7 @@ Welcome to your Rails project on Cloud9 IDE!
 ----------------------------------------------------------------------------
 
 변경사항
+--------
 
 유저 db에서 name필드 추가
 config/db/migrate/20160921141318_devise_create_users
@@ -28,9 +29,9 @@ views/devise/registrations/new.html.erb
 
 회원 이름 확인
 views/home.index.html.erb
-------------------------------------------------------------------------------
 
 참고 사이트
+------------------------------------------------------------------------------
 
 디바이스 젬 깃헙 사이트
 https://github.com/plataformatec/devise
